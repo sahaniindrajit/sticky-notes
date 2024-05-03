@@ -3,9 +3,8 @@
     margin: 0;
 
 }
-body{
-    background-color: aqua;
-    
+body {
+    background: rgb(227, 232, 177) !important;
     font-family: "Architects Daughter";
     font-size: 25px;
 }
@@ -31,7 +30,7 @@ body{
 }
 
 .container3{
-    /*display: none;*/
+    display: none;
     position: absolute;
     top: 26%;
     left: 40%;
